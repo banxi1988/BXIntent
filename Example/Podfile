@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BXIntent_Example' do
+  pod 'BXIntent', :path => '../'
+
+  target 'BXIntent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
