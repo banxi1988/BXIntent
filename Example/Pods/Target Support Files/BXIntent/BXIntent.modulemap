@@ -1,0 +1,6 @@
+framework module BXIntent {
+  umbrella header "BXIntent-umbrella.h"
+
+  export *
+  module * { export * }
+}

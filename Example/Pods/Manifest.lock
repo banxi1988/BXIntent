@@ -1,0 +1,19 @@
+PODS:
+  - BXIntent (0.1.0)
+  - PinAuto (2.0)
+
+DEPENDENCIES:
+  - BXIntent (from `../`)
+  - PinAuto
+
+EXTERNAL SOURCES:
+  BXIntent:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BXIntent: e24833f27753da1e7e40d927e8b2ca25ce243b49
+  PinAuto: c17b09abc2710d60f523f397890bca0572d489e3
+
+PODFILE CHECKSUM: c06a94dcbc5bd8ee9f93d52ff664769a4520e6aa
+
+COCOAPODS: 1.1.0.rc.2
